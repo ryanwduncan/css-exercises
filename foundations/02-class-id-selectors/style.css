@@ -1,0 +1,28 @@
+.odd {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#prime_id {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#secondary_id {
+    background-color: lime;
+    font-weight: bold;
+}
+
+#secondary_id,
+#prime_id {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#secondary_id,
+.cooler {
+    font-size: 25px;
+}
